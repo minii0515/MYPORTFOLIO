@@ -1,0 +1,9 @@
+/**** CLASS **********************************/
+.skip, .blind {
+    display: block;
+    height: 0;
+    overflow: hidden;
+
+    position: absolute;
+    top: -6000px;
+}
